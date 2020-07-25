@@ -1,3 +1,2 @@
 Git is a disrtibuted version control system
-abc
-Git is a freeing software  under the GPL & simple.
+Git is a freeing software  under the GPL and simple.
